@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://pasexof.github.io/sitemap/sitemap.txt
